@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name breakout_longlcd)(type KiCad)(uri C:/Users/Bas/Downloads/airquality-master/breakout_longlcd)(options "")(descr ""))
+)
